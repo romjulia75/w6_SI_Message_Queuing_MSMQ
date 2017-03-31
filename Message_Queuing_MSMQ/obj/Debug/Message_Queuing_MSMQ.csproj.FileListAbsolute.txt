@@ -1,0 +1,7 @@
+c:\users\roman\documents\visual studio 2015\Projects\Message_Queuing_MSMQ\Message_Queuing_MSMQ\bin\Debug\Message_Queuing_MSMQ.exe.config
+C:\@\Message_Queuing_MSMQ\Message_Queuing_MSMQ\bin\Debug\Message_Queuing_MSMQ.exe.config
+C:\@\Message_Queuing_MSMQ\Message_Queuing_MSMQ\bin\Debug\Message_Queuing_MSMQ.exe
+C:\@\Message_Queuing_MSMQ\Message_Queuing_MSMQ\bin\Debug\Message_Queuing_MSMQ.pdb
+C:\@\Message_Queuing_MSMQ\Message_Queuing_MSMQ\obj\Debug\Message_Queuing_MSMQ.csprojResolveAssemblyReference.cache
+C:\@\Message_Queuing_MSMQ\Message_Queuing_MSMQ\obj\Debug\Message_Queuing_MSMQ.exe
+C:\@\Message_Queuing_MSMQ\Message_Queuing_MSMQ\obj\Debug\Message_Queuing_MSMQ.pdb
